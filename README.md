@@ -9,7 +9,7 @@ see your funds with a graphic display
 
 ## Usage
 
-head to heroku
+head to https://enigmatic-fortress-15777.herokuapp.com/
 
 
 
